@@ -1,2 +1,2 @@
-# sinc0172-a3
-Week 4 Assignment Semantic HTML Refactor
+# sinc0172-a2
+Week 3 Assignment Connected Pages with Media
